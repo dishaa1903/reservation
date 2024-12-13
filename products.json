@@ -1,0 +1,122 @@
+[
+    {
+        "name": " Almond oil",
+        "price": 80,
+        "image": "/ecommerce/images/almond oil.jpg"
+    },
+    {
+        "name": "Health care",
+        "price": 100,
+        "image": "/ecommerce/images/health care.jpg"
+    },
+    {
+        "name": "beauty",
+        "price": 100,
+        "image": "/ecommerce/images/beauty.jpg"
+    },
+    {
+        "name": "kitchen utensils",
+        "price": 270,
+        "image": "/ecommerce/images/kitchen utensils.jpg"
+    },
+    {
+        "name": "namkeen",
+        "price": 150,
+        "image": "/ecommerce/images/namkeen.jpg"
+    },
+    {
+        "name": "para oil",
+        "price": 200,
+        "image": "/ecommerce/images/para oil.jpg"
+    },
+    {
+        "name": "spices",
+        "price": 270,
+        "image": "/ecommerce/images/spices.jpg"
+    },
+    {
+        "name": "Stayfree",
+        "price": 390,
+        "image": "/ecommerce/images/stayfree.jpg"
+    },
+    {
+        "name": "Sugar",
+        "price": 420,
+        "image": "/ecommerce/images/sugar.jpg"
+    },
+    {
+        "name": "Dettol",
+        "price": 270,
+        "image": "images/dettol.jpg"
+    },
+    {
+        "name": "hair oil",
+        "price": 390,
+        "image": "/ecommerce/images/hairoil.jpg"
+    },
+    {
+        "name": "kurkure",
+        "price": 420,
+        "image": "/ecommerce/images/kurkure.jpg"
+    },
+    {
+        "name": "soap",
+        "price": 270,
+        "image": "/ecommerce/images/soap.jpg"
+    },
+    {
+        "name": "clothing soap",
+        "price": 390,
+        "image": "/ecommerce/images/sop2.jpg"
+    },
+    {
+        "name": "sponge",
+        "price": 420,
+        "image": "images/sponge.jpg"
+    },
+    {
+        "name": "peanut butter",
+        "price": 270,
+        "image": "images/peanutbutter.jpg"
+    },
+    {
+        "name": "peanut",
+        "price": 390,
+        "image": "images/peanuts.jpg"
+    },
+    {
+        "name": "honey",
+        "price": 420,
+        "image": "images/honey.jpg"
+    },
+    {
+        "name": "Green tea",
+        "price": 270,
+        "image": "images/greentea.jpg"
+    },
+    {
+        "name": "coffee beans",
+        "price": 390,
+        "image": "images/coffeebeans.jpg"
+    },
+    {
+        "name": "chips",
+        "price": 420,
+        "image": "images/chips.jpg"
+    },
+    {
+        "name": "Toilet cleaner",
+        "price": 270,
+        "image": "images/cleaner.jpg"
+    },
+    {
+        "name": "Bread",
+        "price": 390,
+        "image": "images/bread.jpg"
+    },
+    {
+        "name": "butter",
+        "price": 420,
+        "image": "images/butter.jpg"
+    }
+]
